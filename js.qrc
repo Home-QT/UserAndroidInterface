@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>js/chat/writing.js</file>
+        <file>js/utils/timers.js</file>
+        <file>js/socketManager.js</file>
+        <file>js/friend/friendLib.js</file>
+        <file>js/chat/ChatConfig.js</file>
+        <file>js/friend/searchPeople.js</file>
+        <file>js/chat/CreateChatTet.js</file>
+        <file>js/contactList/contactList.js</file>
+        <file>js/soc/URLQuery.js</file>
+        <file>js/friend/friendListLib.js</file>
+        <file>js/grupChat/chatStyle.js</file>
+        <file>js/contractsController.js</file>
+        <file>js/map/mapGeoPost.js</file>
+        <file>js/write/writeOnChat.js</file>
+        <file>js/grupChat/selectedPeople.js</file>
+        <file>js/grupChat/createGrupChat.js</file>
+        <file>js/grupChat/bildNewGupStyle.js</file>
+        <file>js/friend/searchWordDialog.js</file>
+        <file>js/peopleAddOrDelete/peopleAdd.js</file>
+        <file>js/chat/getUsersNewChat.js</file>
+        <file>js/grupChat/grupInfo.js</file>
+    </qresource>
+</RCC>

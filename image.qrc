@@ -1,0 +1,95 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/accounts/baks.png</file>
+        <file>image/accounts/plaing.png</file>
+        <file>image/accounts/seq.png</file>
+        <file>image/accounts/settings.png</file>
+        <file>image/chat/send.png</file>
+        <file>image/friend/search.png</file>
+        <file>image/logo/fb.png</file>
+        <file>image/logo/gm.png</file>
+        <file>image/logo/rendition.png</file>
+        <file>image/logo/vk.png</file>
+        <file>image/map/marker.png</file>
+        <file>image/map/ynform.png</file>
+        <file>image/title/backtitule.png</file>
+        <file>image/title/blue.png</file>
+        <file>image/title/line.png</file>
+        <file>image/accounts/tabTab.png</file>
+        <file>image/chat/524987035.gif</file>
+        <file>image/accounts/stavatar.png</file>
+        <file>image/friend/clear.png</file>
+        <file>image/accounts/colling.png</file>
+        <file>image/accounts/delcont.png</file>
+        <file>image/accounts/sms.png</file>
+        <file>image/accounts/video.png</file>
+        <file>image/accounts/writer.gif</file>
+        <file>image/accounts/addcount.png</file>
+        <file>image/friend/lineTab.png</file>
+        <file>image/chat/Camera.png</file>
+        <file>image/chat/Phone.png</file>
+        <file>image/accounts/background_avatar.jpg</file>
+        <file>image/menu/back.png</file>
+        <file>image/accounts/distr.png</file>
+        <file>image/accounts/mybg.jpg</file>
+        <file>image/chat/mapImage.png</file>
+        <file>image/map/centrMe.png</file>
+        <file>image/map/way.png</file>
+        <file>image/title/tratata.png</file>
+        <file>image/title/loader.gif</file>
+        <file>image/menu/Active/forums.png</file>
+        <file>image/menu/Active/outbox.png</file>
+        <file>image/menu/Active/promos.png</file>
+        <file>image/menu/Active/purchases.png</file>
+        <file>image/menu/Active/spam.png</file>
+        <file>image/menu/Active/trash.png</file>
+        <file>image/menu/Active/updates.png</file>
+        <file>image/menu/Unactive/dollar-symbol.png</file>
+        <file>image/menu/Unactive/notifications-button.png</file>
+        <file>image/menu/Unactive/path.png</file>
+        <file>image/menu/Unactive/phone-book.png</file>
+        <file>image/menu/Unactive/puzzle-piece-silhouette.png</file>
+        <file>image/menu/Unactive/settings-work-tool.png</file>
+        <file>image/menu/Unactive/stamp.png</file>
+        <file>image/menu/Active/exit.png</file>
+        <file>image/chat/path.svg</file>
+        <file>image/chat/Attach.svg</file>
+        <file>image/friend/ic_search_white.svg</file>
+        <file>image/friend/ic_mic.svg</file>
+        <file>image/friend/Group 76.svg</file>
+        <file>image/chat/B-check.svg</file>
+        <file>image/chat/ic_add_white.svg</file>
+        <file>image/chat/ic_done_24px.svg</file>
+        <file>image/accounts/visibleFalse.svg</file>
+        <file>image/accounts/visibleTrue.svg</file>
+        <file>image/accounts/Group 1823.svg</file>
+        <file>image/chat/Bubble.svg</file>
+        <file>image/chat/BubbleAther.svg</file>
+        <file>image/chat/ic_arrow_drop_down_24px.svg</file>
+        <file>image/map/placeholder.svg</file>
+        <file>image/map/googleMarker.svg</file>
+        <file>image/map/pimgpsh_fullsize_distr.png</file>
+        <file>image/map/marker2.svg</file>
+        <file>image/map/CarTravel.png</file>
+        <file>image/map/PedestrianTravel.png</file>
+        <file>image/map/PublicTransitTravel.png</file>
+        <file>image/logo/logoLoader.png</file>
+        <file>image/logo/Icon.png</file>
+        <file>image/sizeConfig/Регистрация – 3.png</file>
+        <file>image/sizeConfig/Регистрация – 1.png</file>
+        <file>image/sizeConfig/Контакты – 4.png</file>
+        <file>image/sizeConfig/Сообщения – 11.png</file>
+        <file>image/chat/ic_more_vert_white.png</file>
+        <file>image/sizeConfig/rectangle.png</file>
+        <file>image/sizeConfig/Сообщения – 2.png</file>
+        <file>image/sizeConfig/Сообщения – 1.png</file>
+        <file>image/sizeConfig/Управление Объявлениями.png</file>
+        <file>image/mybylletin/ic_visibility_24px.svg</file>
+        <file>image/mybylletin/phone_ice.svg</file>
+        <file>image/chat/ic_check_24px.svg</file>
+        <file>image/menu/Active/store.png</file>
+        <file>image/menu/Unactive/store.png</file>
+        <file>image/chat/person-add.svg</file>
+        <file>image/sizeConfig/Впервые на странице пользователя.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/accounts/About.qml</file>
+        <file>qml/authorization/enter/Enter.qml</file>
+        <file>qml/authorization/enter/EnterForm.ui.qml</file>
+        <file>qml/authorization/registration/Randsms.qml</file>
+        <file>qml/authorization/registration/Registration.qml</file>
+        <file>qml/chat/Chat.qml</file>
+        <file>qml/menu/Menu.qml</file>
+        <file>qml/testqml/Test.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/banking/balance.qml</file>
+        <file>qml/accounts/Ather.qml</file>
+        <file>qml/camera/Camera.qml</file>
+        <file>qml/chat/createChat.qml</file>
+        <file>qml/chat/Calendar.qml</file>
+        <file>qml/friend/Friend.qml</file>
+        <file>qml/authorization/enter/Rectangle.ui.qml</file>
+        <file>qml/soc/vkwebkid.qml</file>
+        <file>qml/grup/CreateGrupChat.qml</file>
+        <file>qml/settings/SettingMenue.qml</file>
+        <file>qml/notice/Notice.qml</file>
+        <file>qml/grup/grupChatStile.qml</file>
+        <file>qml/transaction/historyMyTransaction.qml</file>
+        <file>qml/websocket/GeneralWebSocket.qml</file>
+        <file>qml/grup/selectedPeople.qml</file>
+        <file>qml/map/map.qml</file>
+        <file>qml/grup/gupChatToCreate.qml</file>
+        <file>qml/announcementsMy/Announcements.qml</file>
+        <file>qml/grup/grupInfo.qml</file>
+    </qresource>
+</RCC>

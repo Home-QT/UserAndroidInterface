@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="7185.853 -1057.262 22.295 19.524">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #95989a;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke: #95989a;
+      }
+    </style>
+  </defs>
+  <g id="Group_1823" data-name="Group 1823" transform="translate(6878 -1319)">
+    <path id="ic_visibility_24px" class="cls-1" d="M12,4.5A11.827,11.827,0,0,0,1,12a11.817,11.817,0,0,0,22,0A11.827,11.827,0,0,0,12,4.5ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z" transform="translate(307 259.5)"/>
+    <line id="Line_111" data-name="Line 111" class="cls-2" x1="20" y2="17" transform="translate(309.5 263.5)"/>
+    <line id="Line_110" data-name="Line 110" class="cls-3" x1="20" y2="17" transform="translate(308.5 262.5)"/>
+  </g>
+</svg>
